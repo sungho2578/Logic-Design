@@ -1,0 +1,7 @@
+// Inputs
+NET "clk" LOC = "B8";
+NET "reset" LOC = "C11";
+NET "b" LOC = "G12";
+
+// Outputs
+NET "light" LOC = "M5";

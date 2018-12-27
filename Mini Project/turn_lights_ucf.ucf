@@ -1,0 +1,18 @@
+// Inputs
+NET "clk" LOC = "B8";
+NET "reset" LOC = "G12";
+NET "Left" LOC = "K3";
+NET "Right" LOC = "P11";
+NET "Hazard" LOC = "L3";
+
+
+// Outputs
+NET "LED[0]" LOC = "G1";
+NET "LED[1]" LOC = "P4";
+NET "LED[2]" LOC = "N4";
+NET "LED[3]" LOC = "N5";
+
+NET "LED[4]" LOC = "P6";
+NET "LED[5]" LOC = "P7";
+NET "LED[6]" LOC = "M11";
+NET "LED[7]" LOC = "M5";

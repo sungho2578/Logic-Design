@@ -1,0 +1,20 @@
+# Inputs  
+NET "sw0" LOC = "P11";  
+NET "sw1" LOC = "L3";  
+NET "sw2" LOC = "K3";  
+NET "sw3" LOC = "B4";  
+ 
+# Outputs  
+NET "a" LOC = "L14";  
+NET "b" LOC = "H12";  
+NET "c" LOC = "N14";  
+NET "d" LOC = "N11"; 
+NET "e" LOC = "P12"; 
+NET "f" LOC = "L13"; 
+NET "g" LOC = "M12"; 
+
+#ANx
+NET "an0" LOC = "K14"; 
+NET "an1" LOC = "M13"; 
+NET "an2" LOC = "J12"; 
+NET "an3" LOC = "F12"; 

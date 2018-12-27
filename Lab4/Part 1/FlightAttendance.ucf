@@ -1,0 +1,7 @@
+// Inputs
+NET "clk" LOC = "B8";
+NET "call_button" LOC = "G12"; 
+NET "cancel_button" LOC = "C11";
+
+// Outputs
+NET "light_state" LOC = "M5";

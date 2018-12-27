@@ -1,0 +1,23 @@
+// Inputs
+NET "clk" LOC = "B8";
+NET "enable" LOC = "G12";
+NET "reset" LOC = "C11";
+NET "cin" LOC = "M4";
+
+// Xs and Ys
+NET "x[0]" LOC = "P11";
+NET "x[1]" LOC = "L3";
+NET "x[2]" LOC = "K3";
+NET "x[3]" LOC = "B4";
+
+NET "y[0]" LOC = "G3";
+NET "y[1]" LOC = "F3";
+NET "y[2]" LOC = "E2";
+NET "y[3]" LOC = "N3";
+
+// Outputs
+NET "r[0]" LOC = "M5";
+NET "r[1]" LOC = "M11";
+NET "r[2]" LOC = "P7";
+NET "r[3]" LOC = "P6";
+NET "cout" LOC = "N5";
